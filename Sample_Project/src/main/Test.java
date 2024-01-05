@@ -7,6 +7,7 @@ public class Test{
 		System.out.println("added few more lines");
 		System.out.println("--------------");
 		System.out.println("end of the line");
+		System.out.println("**********");
 		
 	}
 }
